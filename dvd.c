@@ -24,7 +24,7 @@ int main(void){
 	
 	while(true){
 		refresh();
-		usleep(80000);
+		usleep(20000);
 		switch (dir){
 		case TOPRIGHT:
 			x++;
