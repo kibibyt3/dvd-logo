@@ -1,0 +1,4 @@
+# DVD LOGO
+
+This is a little script that's like an ascii version of the bouncing
+DVD logo.
